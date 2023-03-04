@@ -1,4 +1,4 @@
-# API para chat serverless integrado com API do OpenAI ChatGPT para a AWS Cloud Week
+# API para chat serverless integrado com API do OpenAI ChatGPT na AWS
 
 ## Passos para o projeto
 
